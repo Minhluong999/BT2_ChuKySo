@@ -50,3 +50,9 @@ Demo files: original.pdf, signed.pdf, tampered.pdf.
 ## VI. GỢI Ý CÔNG CỤ
 - OpenSSL, iText7/BouncyCastle, pypdf/PyPDF2.
 - Tham khảo chuẩn PDF: ISO 32000-2 (PDF 2.0) và ETSI EN 319 142 (PAdES)
+
+<img width="676" height="459" alt="Ảnh chụp màn hình 2025-10-31 235029" src="https://github.com/user-attachments/assets/72024198-9a4a-45a3-98e8-d2cbbfc32d04" />
+
+<img width="791" height="490" alt="Ảnh chụp màn hình 2025-10-31 235008" src="https://github.com/user-attachments/assets/774aae75-fc82-4027-bc8b-f863dfb20ceb" />
+
+
